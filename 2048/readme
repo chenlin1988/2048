@@ -1,0 +1,5 @@
+如果在创建项目时，知道项目需要使用coredata，那么在新建项目时就勾选use coredata
+如果在已知项目中添加coredata，如图1.png
+
+
+在项目中生成model文件（如：ScoreData.swift）如图2.png
